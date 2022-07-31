@@ -1,0 +1,135 @@
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\appsettings.json
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Api_Tweet1.exe
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Api_Tweet1.deps.json
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Api_Tweet1.runtimeconfig.json
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Api_Tweet1.runtimeconfig.dev.json
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Api_Tweet1.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\ref\Api_Tweet1.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Api_Tweet1.pdb
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Autofac.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Tweetinvi.Controllers.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Tweetinvi.Core.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Tweetinvi.Credentials.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Tweetinvi.Logic.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Tweetinvi.Security.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Tweetinvi.Streams.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Tweetinvi.WebLogic.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Tweetinvi.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.csproj.AssemblyReference.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.AssemblyInfoInputs.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.AssemblyInfo.cs
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.csproj.CoreCompileInputs.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\staticwebassets\Api_Tweet1.StaticWebAssets.Manifest.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\staticwebassets\Api_Tweet1.StaticWebAssets.xml
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\scopedcss\bundle\Api_Tweet1.styles.css
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.RazorTargetAssemblyInfo.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.csproj.CopyComplete
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\ref\Api_Tweet1.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.pdb
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.genruntimeconfig.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Facebook.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\bin\Debug\net5.0\Api_Tweet1.xml
+C:\Users\MyHP\source\repos\Api_Tweet1\obj\Debug\net5.0\Api_Tweet1.xml
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.GeneratedMSBuildEditorConfig.editorconfig
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.AssemblyInfoInputs.cache
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.AssemblyInfo.cs
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.csproj.CoreCompileInputs.cache
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.MvcApplicationPartsAssemblyInfo.cs
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.MvcApplicationPartsAssemblyInfo.cache
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\appsettings.Development.json
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\appsettings.json
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Api_Tweet1.StaticWebAssets.xml
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Api_Tweet1.exe
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Api_Tweet1.deps.json
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Api_Tweet1.runtimeconfig.json
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Api_Tweet1.runtimeconfig.dev.json
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Api_Tweet1.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\ref\Api_Tweet1.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Api_Tweet1.pdb
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Api_Tweet1.xml
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Autofac.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Facebook.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Tweetinvi.Controllers.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Tweetinvi.Core.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Tweetinvi.Credentials.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Tweetinvi.Logic.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Tweetinvi.Security.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Tweetinvi.Streams.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Tweetinvi.WebLogic.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\bin\Debug\net5.0\Tweetinvi.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\scopedcss\bundle\Api_Tweet1.styles.css
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\staticwebassets\Api_Tweet1.StaticWebAssets.Manifest.cache
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.RazorTargetAssemblyInfo.cache
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.csproj.CopyComplete
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\ref\Api_Tweet1.dll
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.xml
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.pdb
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.genruntimeconfig.cache
+D:\APPS TecnoVoz\Social Networks\social_networks\obj\Debug\net5.0\Api_Tweet1.csproj.AssemblyReference.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\appsettings.json
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Api_Tweet1.exe
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Api_Tweet1.deps.json
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Api_Tweet1.runtimeconfig.json
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Api_Tweet1.runtimeconfig.dev.json
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Api_Tweet1.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Api_Tweet1.pdb
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Api_Tweet1.xml
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Autofac.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Facebook.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Tweetinvi.Controllers.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Tweetinvi.Core.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Tweetinvi.Credentials.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Tweetinvi.Logic.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Tweetinvi.Security.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Tweetinvi.Streams.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Tweetinvi.WebLogic.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Tweetinvi.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.csproj.AssemblyReference.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.AssemblyInfoInputs.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.AssemblyInfo.cs
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.csproj.CoreCompileInputs.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\staticwebassets\Api_Tweet1.StaticWebAssets.Manifest.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\scopedcss\bundle\Api_Tweet1.styles.css
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.RazorTargetAssemblyInfo.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.csproj.CopyComplete
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\ref\Api_Tweet1.dll
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.xml
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.pdb
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\Api_Tweet1.genruntimeconfig.cache
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\bin\Debug\net5.0\Api_Tweet1.StaticWebAssets.xml
+C:\Users\MyHP\source\repos\Api_Tweet1\social_networks\obj\Debug\net5.0\refint\Api_Tweet1.dll

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api_Tweet1</name>
+    </assembly>
+    <members>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.#ctor">
+            <summary>
+            Prueba Branch CAZA
+            </summary>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.GetUser">
+            <summary>
+            Obtitne la información del usuario que se configura en appsettings. No requiere parametros
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.GetTweetUser">
+            <summary>
+            Obtiene los Tweets que el usuario registrado ha realizado por lista 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.GetTweetSpecificUser(System.String)">
+            <summary>
+            Obtiene los tweet de un usuario especifico que se recibe como un parametro string
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.GetFollowers">
+            <summary>
+            Obtiene los seguidores de la cuenta logueada con los Token
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.GetFilterTweet(System.String)">
+            <summary>
+            Obtiene los tweets de todas las cuentas posibles sobre un tema en particular que se puede escribir en el filtro que se muestra, por ejemplo
+            Cocacola o Messi, esto buscará los mensajes que contengan este texto.
+            </summary>
+            <param name="find"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.GetFilterTweetSpecificUser(System.String)">
+            <summary>
+            Esto obtiene los tweets de una cuenta en especifico en relación a un tema que haya dentro de los mensajes separados por un @ entre el usuario y el tema. 
+            Un ejemplo sería: prueba@carlos22zapata, esto me daría todos los mensajes que hablen del tema prueba que haya publicado carlos22zapata
+            </summary>
+            <param name="filterAndUser"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.GetMessages(System.Int32)">
+            <summary>
+            Se usa para responder un mensaje a un usuario en especifico
+            </summary>
+            <param name="user"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.NewMessage(System.String,System.String)">
+            <summary>
+            Se usa para responder un mensaje a un usuario en especifico
+            </summary>
+            <param name="user"></param>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Tweet1.Controllers.TwitterController.Put(System.String)">
+            <summary>
+            Publica un tweet con el contenido de lo que se coloque en el filtro del endpoint 
+            </summary>
+            <param name="tweet"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
